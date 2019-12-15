@@ -1,2 +1,2 @@
 # Learngithub
-Learning to use Git Hub
+This is for Learning to use Git Hub
